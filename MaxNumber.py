@@ -5,4 +5,4 @@ for x in range(1,4):
 print(max(lst))
 
 #Single line
-#print(max(int(input("1: ")) ,int(input("2:   ")) ,int(input("3:   "))))
+#print(max(int(input("1: ")) ,int(input("2:   ")) ,int(input("3:    "))))
